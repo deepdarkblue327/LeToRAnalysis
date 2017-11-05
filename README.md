@@ -1,2 +1,2 @@
-# LeToRAnalysis
-Linear Regression in N dimension over LeToR dataset with 46 features
+# ml_project_2
+Linear Regression
