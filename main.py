@@ -337,29 +337,3 @@ for i in range(len(scaled_y)):
         count+=1
         
 print "Number of records matching in test data after rounding to the nearest decimal:",count
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
